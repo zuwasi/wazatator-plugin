@@ -8,7 +8,7 @@ argument-hint: "[skill directory]"
 
 Target skill directory: $ARGUMENTS (if empty, use the current directory).
 
-1. Run `wazatator --version`. If it is missing, give the install commands from `/wazatator:eval` and stop.
+1. Run `wazatator --version`. If it is missing, stop and point the user to https://github.com/zuwasi/wazatator/releases/latest to install it themselves.
 2. Run the free static check (compliance, token budget, eval presence):
 
    ```bash

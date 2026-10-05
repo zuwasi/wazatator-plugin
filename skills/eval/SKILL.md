@@ -10,10 +10,7 @@ Target: $ARGUMENTS (if empty, use the skill in the current directory).
 
 ## 1. Check the CLI
 
-Run `wazatator --version`. If it is not found, stop and tell the user to install it:
-
-- Windows PowerShell: `irm https://raw.githubusercontent.com/zuwasi/wazatator/main/install.ps1 | iex`
-- macOS/Linux: `curl -fsSL https://raw.githubusercontent.com/zuwasi/wazatator/main/install.sh | bash`
+Run `wazatator --version`. If it is not found, stop and tell the user to install it themselves: download the binary for their platform from https://github.com/zuwasi/wazatator/releases/latest, verify it against `checksums.txt` on that page, rename it to `wazatator` (`wazatator.exe` on Windows), and put it on their `PATH`. Do not download or run an installer for them.
 
 ## 2. Find the eval spec
 

@@ -13,9 +13,10 @@ Claude also uses these skills on its own when you ask it to test, benchmark, or 
 ## Requirements
 
 - Claude Code, installed and logged in. The skills drive a local command-line tool, so they work in Claude Code only, not on claude.ai or in Cowork.
-- The open-source `wazatator` CLI (MIT) on your `PATH`. The plugin does not install it for you; if it is missing, the skills stop and show these commands:
-  - Windows PowerShell: `irm https://raw.githubusercontent.com/zuwasi/wazatator/main/install.ps1 | iex`
-  - macOS/Linux: `curl -fsSL https://raw.githubusercontent.com/zuwasi/wazatator/main/install.sh | bash`
+- The open-source `wazatator` CLI (MIT) on your `PATH`. The plugin never downloads or installs it; if it is missing, the skills stop and point you to the release page. To install it:
+  1. Download the binary for your platform (Windows, macOS, or Linux; x64 or ARM64) from https://github.com/zuwasi/wazatator/releases/latest.
+  2. Check its SHA-256 against `checksums.txt` on the same page.
+  3. Rename it to `wazatator` (`wazatator.exe` on Windows) and put it on your `PATH`.
 
 ## Install
 
