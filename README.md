@@ -45,4 +45,4 @@ Every eval task and LLM-judged grader is a real Claude Code session. Keep `trial
 
 ## Attribution
 
-The `wazatator` CLI is based on [Microsoft Waza](https://github.com/microsoft/waza) (MIT). Wazatator is not affiliated with or endorsed by Microsoft or Anthropic. Built by ESL (Engineering Software Lab), a member of the Claude Partner Network.
+The `wazatator` CLI is based on [Microsoft Waza](https://github.com/microsoft/waza) (MIT) and is not affiliated with or endorsed by Microsoft. Wazatator is an independent community project, not an official Anthropic product. Built by ESL (Engineering Software Lab), a member of the Claude Partner Network.
