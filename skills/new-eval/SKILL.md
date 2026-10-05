@@ -8,7 +8,7 @@ argument-hint: "[skill directory or skill name]"
 
 Target skill: $ARGUMENTS (if empty, use the skill in the current directory).
 
-1. Run `wazatator --version`. If it is missing, stop and point the user to https://github.com/zuwasi/wazatator/releases/latest to install it themselves.
+1. Run `wazatator --version`. If it is missing, stop and point the user to the setup instructions at https://github.com/zuwasi/wazatator#installation.
 2. Read the skill's `SKILL.md`: its purpose, trigger phrases, and anything it must not handle.
 3. From the directory that contains the skill, scaffold the suite:
 

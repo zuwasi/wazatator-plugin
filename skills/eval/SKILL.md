@@ -10,7 +10,7 @@ Target: $ARGUMENTS (if empty, use the skill in the current directory).
 
 ## 1. Check the CLI
 
-Run `wazatator --version`. If it is not found, stop and tell the user to install it themselves: download the binary for their platform from https://github.com/zuwasi/wazatator/releases/latest, verify it against `checksums.txt` on that page, rename it to `wazatator` (`wazatator.exe` on Windows), and put it on their `PATH`. Do not download or run an installer for them.
+Run `wazatator --version`. If it is not found, stop. Tell the user this plugin needs the `wazatator` CLI and that setup instructions are at https://github.com/zuwasi/wazatator#installation. Do not set it up for them.
 
 ## 2. Find the eval spec
 
