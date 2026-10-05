@@ -1,15 +1,17 @@
 {
   "name": "wazatator",
   "displayName": "Wazatator",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "description": "Test and improve Agent Skills with real Claude Code sessions: scaffold eval suites, measure what a skill adds, catch trigger collisions, and keep only fixes that pass a regression gate",
   "author": {
-    "name": "Daniel Liezrowice"
+    "name": "Engineering Software Lab (ESL)",
+    "url": "https://eswlab.com"
   },
-  "homepage": "https://github.com/zuwasi/wazatator",
+  "homepage": "https://zuwasi.github.io/Public-html-pages/wazatator/",
   "repository": "https://github.com/zuwasi/wazatator-plugin",
   "documentationUrl": "https://github.com/zuwasi/wazatator#readme",
   "supportUrl": "https://github.com/zuwasi/wazatator-plugin/issues",
+  "privacyPolicyUrl": "https://eswlab.com/privacy-policy/",
   "license": "MIT",
   "icon": "./.claude-plugin/icon.png",
   "keywords": ["skills", "evals", "testing", "benchmark", "agent-skills", "skill-quality"]

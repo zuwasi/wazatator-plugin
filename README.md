@@ -1,5 +1,9 @@
 # Wazatator plugin for Claude Code
 
+![ESL, Engineering Software Lab](assets/esl-logo.png)
+
+**By Engineering Software Lab (ESL)**, a member of Anthropic's Claude Partner Network.
+
 Test and improve your Agent Skills (`SKILL.md`) from inside Claude Code. Wazatator runs your skill in real Claude Code sessions, grades what happened (the answer, the tool calls, the files), and tells you whether a skill edit actually helped: does the skill fire for the right prompts, does it lose prompts to your other installed skills, and does it beat Claude with no skill at all.
 
 | Skill | What it does |
@@ -41,9 +45,19 @@ Every eval task and LLM-judged grader is a real Claude Code session. Keep `trial
 
 ## Links
 
+- Product overview: https://zuwasi.github.io/Public-html-pages/wazatator/
 - CLI source, documentation, and releases: https://github.com/zuwasi/wazatator
 - Issues with the plugin: https://github.com/zuwasi/wazatator-plugin/issues
 
+## About ESL
+
+Since 2005, Engineering Software Lab (ESL) has helped software teams adopt leading development tools: code analysis, testing, compliance, and AI coding agents. As a Claude Partner Network member, ESL helps teams adopt Claude and Claude Code, and builds open tools like Wazatator to make AI agents measurable.
+
+- Web: https://eswlab.com
+- Email: sales@eswlab.com
+- LinkedIn: https://www.linkedin.com/company/engineering-software-lab-esl-
+- Privacy policy: https://eswlab.com/privacy-policy/
+
 ## Attribution
 
-The `wazatator` CLI is based on [Microsoft Waza](https://github.com/microsoft/waza) (MIT) and is not affiliated with or endorsed by Microsoft. Wazatator is an independent community project, not an official Anthropic product. Built by ESL (Engineering Software Lab), a member of the Claude Partner Network.
+The `wazatator` CLI is based on [Microsoft Waza](https://github.com/microsoft/waza) (MIT) and is not affiliated with or endorsed by Microsoft. Wazatator is an independent community project, not an official Anthropic product.
