@@ -2,7 +2,8 @@
   "name": "wazatator",
   "description": "Wazatator: evaluate and improve Agent Skills with Claude Code",
   "owner": {
-    "name": "Engineering Software Lab (ESL)"
+    "name": "Engineering Software Lab (ESL)",
+    "email": "daniel.l@eswlab.com"
   },
   "plugins": [
     {

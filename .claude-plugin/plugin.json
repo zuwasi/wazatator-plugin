@@ -1,10 +1,11 @@
 {
   "name": "wazatator",
   "displayName": "Wazatator",
-  "version": "0.3.3",
+  "version": "0.3.4",
   "description": "Test and improve Agent Skills with real Claude Code sessions: scaffold eval suites, measure what a skill adds, catch trigger collisions, and keep only fixes that pass a regression gate",
   "author": {
     "name": "Engineering Software Lab (ESL)",
+    "email": "daniel.l@eswlab.com",
     "url": "https://eswlab.com"
   },
   "homepage": "https://zuwasi.github.io/Public-html-pages/wazatator/",
