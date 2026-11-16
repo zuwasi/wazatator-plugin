@@ -1,8 +1,8 @@
 {
   "name": "wazatator",
-  "displayName": "Wazatator",
-  "version": "0.3.5",
-  "description": "Test and improve Agent Skills with real Claude Code sessions: scaffold eval suites, measure what a skill adds, catch trigger collisions, and keep only fixes that pass a regression gate",
+  "displayName": "Wazatator by ESL",
+  "version": "0.3.6",
+  "description": "Test and improve Agent Skills with real Claude Code sessions: scaffold eval suites, measure what a skill adds, catch trigger collisions, and keep only fixes that pass a regression gate. Built by Engineering Software Lab (ESL), a Claude Partner Network member",
   "author": {
     "name": "Engineering Software Lab (ESL)",
     "email": "daniel.l@eswlab.com",
@@ -15,5 +15,5 @@
   "privacyPolicyUrl": "https://eswlab.com/privacy-policy/",
   "license": "MIT",
   "icon": "./.claude-plugin/icon.png",
-  "keywords": ["skills", "evals", "testing", "benchmark", "agent-skills", "skill-quality"]
+  "keywords": ["skills", "evals", "testing", "benchmark", "agent-skills", "skill-quality", "esl"]
 }

@@ -4,6 +4,8 @@
 
 **By Engineering Software Lab (ESL)**, a member of Anthropic's Claude Partner Network.
 
+ESL helps software teams with every aspect of the AI SDLC: adopting Claude and Claude Code, code analysis, testing, compliance, and making AI agents measurable. Need help with any of it? [eswlab.com](https://eswlab.com) or sales@eswlab.com.
+
 Test and improve your Agent Skills (`SKILL.md`) from inside Claude Code. Wazatator runs your skill in real Claude Code sessions, grades what happened (the answer, the tool calls, the files), and tells you whether a skill edit actually helped: does the skill fire for the right prompts, does it lose prompts to your other installed skills, and does it beat Claude with no skill at all.
 
 | Skill | What it does |
@@ -49,6 +51,8 @@ Every eval task and LLM-judged grader is a real Claude Code session. Keep `trial
 ## About ESL
 
 Since 2005, Engineering Software Lab (ESL) has helped software teams adopt leading development tools: code analysis, testing, compliance, and AI coding agents. As a Claude Partner Network member, ESL helps teams adopt Claude and Claude Code, and builds open tools like Wazatator to make AI agents measurable.
+
+Whatever aspect of the AI SDLC you are working on, from agent adoption and skill quality to code analysis, testing, and compliance evidence, ESL can help.
 
 - Web: https://eswlab.com
 - Email: sales@eswlab.com

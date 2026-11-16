@@ -9,7 +9,7 @@
     {
       "name": "wazatator",
       "source": "./",
-      "description": "Run eval suites, quality checks, and trigger tests for your Agent Skills through Claude Code, then fix what fails"
+      "description": "Run eval suites, quality checks, and trigger tests for your Agent Skills through Claude Code, then fix what fails. Built by Engineering Software Lab (ESL)"
     }
   ]
 }
